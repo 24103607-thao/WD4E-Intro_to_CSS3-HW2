@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+h1 {
+    background-color: lightblue;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: darkblue;
+}
+nav {
+    background-color: lightgreen;
+}
+main {
+    background-color: lightyellow;
+    font-size: 18px;
+}
+footer {
+    background-color: lightgray;
+}
+li {
+    display: inline-block;
+    width: 150px;
+}
