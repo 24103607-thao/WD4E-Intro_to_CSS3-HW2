@@ -21,6 +21,9 @@ nav img {
     display: grid;
     grid-template-columns: 40% 40%;
 }
+.grid img {
+    width: 100%;
+}
 main {
     background-color: lightyellow;
     font-size: 18px;
