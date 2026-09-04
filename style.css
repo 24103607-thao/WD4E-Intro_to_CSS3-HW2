@@ -20,6 +20,9 @@ nav img {
 .grid {
     display: grid;
     grid-template-columns: 40% 40%;
+    justify-content: space-around;
+    align-items: start;
+    row-gap: 20px;
 }
 .grid img {
     width: 100%;
@@ -30,6 +33,11 @@ main {
 }
 footer {
     background-color: lightgray;
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+     justify-content: space-around;
 }
 
 /*
